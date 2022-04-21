@@ -21,4 +21,3 @@ Modes:
 For this script to work, you need to have a music file (like `.mp3` or `.flac`) with the following metadata tags:
 - `artist`
 - `album`
-- `title` (optional)
